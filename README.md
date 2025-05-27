@@ -26,10 +26,10 @@ A modern Angular application that consumes data from [FakeStoreAPI](https://fake
 ## Screenshots
 
  Product Grid View                               
-|![image](https://github.com/user-attachments/assets/904eacc0-d580-422f-961a-2024b56be5f0) |
+![image](https://github.com/user-attachments/assets/904eacc0-d580-422f-961a-2024b56be5f0)
 ----------------------------------------------
 Responsive Mobile View                         
-| ![image](https://github.com/user-attachments/assets/26a11c82-5cc6-457c-a13c-ac1034c1e169)|
+![image](https://github.com/user-attachments/assets/26a11c82-5cc6-457c-a13c-ac1034c1e169)
  
 
 ---

@@ -105,6 +105,6 @@ This project is open-source under the [MIT License](LICENSE).
 ---
 
 ## Contact
-Created by <a href="https://github.com/waseem-sk-dev" style="text-decoration: none;">Waseem SK</a>
+Created by <a href="https://github.com/waseem-sk-dev">Waseem SK</a>
  – feel free to reach out!<br>
 Let me know if you’d like to include [API error handling](f), [pagination](f), or [UI styling tips](f) to enhance your project.

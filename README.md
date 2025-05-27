@@ -39,8 +39,8 @@ Responsive Mobile View
 1. **Clone the repo:**
 
    ```bash
-   git clone https://github.com/your-username/angular-fakestore-products.git
-   cd angular-fakestore-products
+   git clone https://github.com/waseem-sk-dev/product-display.git
+   cd product-display
    ```
 
 2. **Install dependencies:**
@@ -108,5 +108,5 @@ This project is open-source under the [MIT License](LICENSE).
 ---
 
 ## Contact
-Created by Waseem SK – feel free to reach out!<br>
+Created by<a href="https://github.com/waseem-sk-dev"> Waseem SK </a> – feel free to reach out!<br>
 Let me know if you’d like to include [API error handling](f), [pagination](f), or [UI styling tips](f) to enhance your project.

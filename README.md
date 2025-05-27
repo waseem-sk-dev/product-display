@@ -1,7 +1,7 @@
 # Angular Product Showcase App
 
 A modern Angular application that consumes data from [FakeStoreAPI](https://fakestoreapi.com/) to display products in a responsive, user-friendly interface. This project demonstrates real-world Angular development practices, ideal for e-commerce front-end architecture demos, learning API consumption, and UI presentation.
----
+
 
 ## Tech Stack
 

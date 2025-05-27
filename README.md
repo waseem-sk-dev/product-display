@@ -10,8 +10,7 @@ A modern Angular application that consumes data from [FakeStoreAPI](https://fake
 * **RxJS**
 * **HTML5 + CSS3 (Flex/Grid Layout)**
 * **FakeStoreAPI (public REST API)**
-
----
+  
 
 ## Features
 
@@ -30,8 +29,6 @@ A modern Angular application that consumes data from [FakeStoreAPI](https://fake
 ----------------------------------------------
 Responsive Mobile View                         
 ![image](https://github.com/user-attachments/assets/26a11c82-5cc6-457c-a13c-ac1034c1e169)
- 
-
 ---
 
 ## Setup & Installation

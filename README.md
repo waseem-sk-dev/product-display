@@ -25,11 +25,12 @@ A modern Angular application that consumes data from [FakeStoreAPI](https://fake
 
 ## Screenshots
 
-| Product Grid View                               | Responsive Mobile View                         |
-| ----------------------------------------------- | ---------------------------------------------- |
-|![image](https://github.com/user-attachments/assets/904eacc0-d580-422f-961a-2024b56be5f0)
- | ![image](https://github.com/user-attachments/assets/26a11c82-5cc6-457c-a13c-ac1034c1e169)
- |
+ Product Grid View                               
+|![image](https://github.com/user-attachments/assets/904eacc0-d580-422f-961a-2024b56be5f0) |
+----------------------------------------------
+Responsive Mobile View                         
+| ![image](https://github.com/user-attachments/assets/26a11c82-5cc6-457c-a13c-ac1034c1e169)|
+ 
 
 ---
 
@@ -106,6 +107,6 @@ This project is open-source under the [MIT License](LICENSE).
 
 ---
 
-## Author
-
-**You** - [@yourgithub](https://github.com/yourgithub)
+## Contact
+Created by Waseem SK – feel free to reach out!<br>
+Let me know if you’d like to include [API error handling](f), [pagination](f), or [UI styling tips](f) to enhance your project.
